@@ -3,18 +3,21 @@
         "Name": "Dog Jumper",
         "Description": "A jumper for a dog",
         "Alt": "an AI generated image of a dog in a jumper",
-        "imageURL": "images/dog-jumper.png"
+        "imageURL": "images/dog-jumper.png",
+        "Price": "£40"
     },
     {
         "Name": "Cat Jumper",
         "Description": "A jumper for a cat",
         "Alt": "an AI generated image of a cat in a jumper",
-        "imageURL": "images/cat-jumper.png"
+        "imageURL": "images/cat-jumper.png",
+        "Price": "£40"
     },
     {
         "Name": "bird Jumper",
         "Description": "A jumper for a bird",
         "Alt": "an AI generated image of a bird in a jumper",
-        "imageURL": "images/bird-jumper.png"
+        "imageURL": "images/bird-jumper.png",
+        "Price": "£40"
     }
 ]
