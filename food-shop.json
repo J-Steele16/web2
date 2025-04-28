@@ -3,18 +3,21 @@
         "Name": "Dog Food",
         "Description": " Food for dogs",
         "Alt": "an AI generated image of dog food",
-        "imageURL": "images/dogfood.png"
+        "imageURL": "images/dogfood.png",
+        "Price": "£20"
     },
     {
         "Name": "Cat Food",
         "Description": " Food for cats",
         "Alt": "an AI generated image of cat food",
-        "imageURL": "images/catfood.png"
+        "imageURL": "images/catfood.png",
+        "Price": "£20"
     },
     {
         "Name": "Bird Food",
         "Description": " Food for birds",
         "Alt": "an AI generated image of bird food",
-        "imageURL": "images/birdfood.png"
+        "imageURL": "images/birdfood.png",
+        "Price": "£20"
     }
 ]
