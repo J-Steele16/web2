@@ -1,0 +1,32 @@
+[
+    {
+        "Name": "Steve",
+        "Description": "A SMALL DOGGO WITH CUTE EYES",
+        "Alt": "an AI generated image of a dog called Steve",
+        "imageURL": "steve.png"
+    },
+    {
+        "Name": "Phil",
+        "Description": "A BIG DOGGO WITH A WET NOSE",
+        "Alt": "an AI generated image of a dog called Phil",
+        "imageURL": "phil.png"
+    },
+    {
+        "Name": "Bob",
+        "Description": "A MEDIUM DOGGO WITH FLOPPY EARS",
+        "Alt": "an AI generated image of a dog called Bob",
+        "imageURL": "bob.png"
+    },
+    {
+        "Name": "Gordon",
+        "Description": "A BIG DOGGO WITH A SOFT MUZZLE",
+        "Alt": "an AI generated image of a dog called Gordon",
+        "imageURL": "gordon.png"
+    },
+    {
+        "Name": "Barry",
+        "Description": "A MEDIUM DOGGO WITH LOTS OF FLOOF",
+        "Alt": "an AI generated image of a dog called Barry",
+        "imageURL": "barry.png"
+    }
+]
