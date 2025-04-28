@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "Dog Food",
+        "Description": " Food for dogs",
+        "Alt": "an AI generated image of dog food",
+        "imageURL": "images/dogfood.png"
+    },
+    {
+        "Name": "Cat Food",
+        "Description": " Food for cats",
+        "Alt": "an AI generated image of cat food",
+        "imageURL": "images/catfood.png"
+    },
+    {
+        "Name": "Bird Food",
+        "Description": " Food for birds",
+        "Alt": "an AI generated image of bird food",
+        "imageURL": "images/birdfood.png"
+    },
+    {
+        "Name": "Dog Jumper",
+        "Description": "A jumper for a dog",
+        "Alt": "an AI generated image of a dog in a jumper",
+        "imageURL": "images/dog-jumper.png"
+    },
+    {
+        "Name": "Cat Jumper",
+        "Description": "A jumper for a cat",
+        "Alt": "an AI generated image of a cat in a jumper",
+        "imageURL": "images/cat-jumper.png"
+    },
+    {
+        "Name": "bird Jumper",
+        "Description": "A jumper for a bird",
+        "Alt": "an AI generated image of a bird in a jumper",
+        "imageURL": "images/bird-jumper.png"
+    }
+]
